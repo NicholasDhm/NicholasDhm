@@ -15,8 +15,14 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NicholasDhm&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasDhm&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NicholasDhm&theme=github_dark" />
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NicholasDhm&theme=github" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NicholasDhm&theme=github_dark" />
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NicholasDhm&theme=github" alt="Top languages" />
+  </picture>
 </p>
 
 <picture>
