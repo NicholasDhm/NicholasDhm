@@ -14,17 +14,6 @@
   <a href="https://www.instagram.com/nicholas.dhm"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NicholasDhm&theme=github_dark" />
-    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NicholasDhm&theme=github" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NicholasDhm&theme=github_dark" />
-    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NicholasDhm&theme=github" alt="Top languages" />
-  </picture>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicholasDhm/NicholasDhm/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NicholasDhm/NicholasDhm/output/snake.svg" />
